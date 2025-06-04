@@ -1,0 +1,8 @@
+============================= test session starts ==============================
+platform linux -- Python 3.13.3, pytest-8.4.0, pluggy-1.6.0
+rootdir: /home/loki/documents/coding/is601/module2
+collected 5 items
+
+test_calculator.py .....                                                 [100%]
+
+============================== 5 passed in 0.01s ===============================
